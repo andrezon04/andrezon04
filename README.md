@@ -1,7 +1,7 @@
-<h1 align="center">André Dias</h1>
+<h1 align="center">⇒André Dias⇐</h1>
 
 <p align="center">
-  Estudante
+  Estudante📚
 </p>
 
 ---
@@ -18,18 +18,10 @@
 - Pós-graduação em Engenharia de Software e Digital Product Leadership
 - Experiência em automação de processos e integração de sistemas utilizando Python
 
-## Projetos em destaque
-
-- [Toque AI](https://toqueai.com.br/) – Plataforma de QR Code para identificação e gestão de pets, pessoas e objetos
-- [Suporte de Domingo](https://suportededomingo.com.br/) – Soluções digitais e agendamento personalizado
-- [Code Trouble](https://codetrouble.com.br) – Comunidade aberta para desenvolvedores e troca de conhecimento
-
 ## Contato
 
-- [LinkedIn](https://www.linkedin.com/in/lucascorreaa/)
-- [Suporte de Domingo](https://suportededomingo.com.br/)
-- [Portfólio](https://professorcorrea.com.br/)
-- [Instagram - Professor Corrêa](https://www.instagram.com/professorcorrea)
+- [LinkedIn](https://www.linkedin.com/in/andrediass/)
+- [Instagram - Professor Corrêa](https://www.instagram.com/)
 
 ---
 
