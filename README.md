@@ -1,4 +1,4 @@
-<h1 align="center">⇒André Dias⇐</h1>
+<h1 align="center">André Dias</h1>
 
 <p align="center">
   Estudante📚
@@ -21,7 +21,7 @@
 ## Contato
 
 - [LinkedIn](https://www.linkedin.com/in/andrediass/)
-- [Instagram - Professor Corrêa](https://www.instagram.com/)
+- [Instagram](https://www.instagram.com/)
 
 ---
 
