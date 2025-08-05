@@ -1,5 +1,3 @@
-<h1 align="center">⚠️Desculpe o transtorno. Estamos em manutenção⚠️</h1>
-
 <h1 align="center">André Dias</h1>
 
 <p align="center">
