@@ -1,7 +1,4 @@
-→ ⚠️Desculpe o transtorno. Estamos em manutenção ⚠️
-
-                      🚧🚧
-
+ ↳ ⚠️Desculpe o transtorno. Estamos em manutenção ⚠️
 <!--
 **andrezon04/andrezon04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
