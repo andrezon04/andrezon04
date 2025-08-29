@@ -1,7 +1,7 @@
 <h1 align="center">André Dias</h1>
 
 <p align="center">
-  Estudante📚
+  🚧desculpe o transtorno, estamos em manutenção!🚧
 </p>
 
 ---
