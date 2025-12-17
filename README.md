@@ -1,5 +1,5 @@
 <div align="center">
-  <div style="padding-top:100.000%;position:relative;"><iframe src="https://gifer.com/embed/2GU" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">através de GIFER</a></p>
+  <img height="200" src="[https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTAyOXVjdWVkZWpzZ3Rtc3lia2thZ2tzNnptZWR4dmU5eWkyMng0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mcsPU3SkKrYDdW3aAU/giphy.gif](https://i.gifer.com/2GU.gif)"  />
 </div>
 
 ###
