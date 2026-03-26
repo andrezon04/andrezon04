@@ -12,8 +12,6 @@
 
 <h2 align="center">Languages</h2>
 
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
@@ -35,8 +33,6 @@
 ###
 
 <h2 align="center">Techs</h2>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
