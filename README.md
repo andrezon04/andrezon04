@@ -8,7 +8,7 @@
 
 ###
 
-<img align="right" height="150" src="https://camo.githubusercontent.com/34b4f7d295fbad735f98820ede3ae387980cdd553a36be48c15838ef806418bb/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578595441794f58566a6457566b5a57707a5a33527463336c69613274685a32747a4e6e70745a575234646d553565576b794d6e673064795a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f6d6373505533536b4b7259446457336141552f67697068792e676966"  />
+<img align="right" height="175" src="https://camo.githubusercontent.com/34b4f7d295fbad735f98820ede3ae387980cdd553a36be48c15838ef806418bb/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578595441794f58566a6457566b5a57707a5a33527463336c69613274685a32747a4e6e70745a575234646d553565576b794d6e673064795a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f6d6373505533536b4b7259446457336141552f67697068792e676966"  />
 
 ###
 
@@ -19,7 +19,7 @@
 
 <br clear="both">
 
-<p align="left">💻 Coding with these languages</p>
+<h1 align="left">💻 Coding with these languages</h1>
 
 [![Java](https://img.shields.io/badge/Java-000000.svg?style=for-the-badge&logo=OpenJDK&logoColor=white)](https://www.java.com/)
 [![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white)](https://spring.io/projects/spring-boot)
@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">💡 using these techs</p>
+<h1 align="left">💡 Using these techs</h1>
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
@@ -39,7 +39,7 @@
 
 ###
 
-<p align="left">📖 and learning these</p>
+<h1 align="left">📖 And learning these</h1>
 
 [![ReactNative](https://img.shields.io/badge/React_Native-10132A?style=for-the-badge&logo=react&logoColor=61DAFC)](https://reactnative.dev/)
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
@@ -71,3 +71,5 @@
 </div>
 
 ###
+
+<p align="center">(some codes that I dedicate more time ↷)</p>
