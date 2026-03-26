@@ -15,11 +15,18 @@
 <p align="left">↱ Hello people, my name is André Dias.<br>|<br>↦ Actually, just a IT student trying to become a Software Developer   Back-End.<br>|<br>↳ Studying Analysis and Systems Development in the college!</p>
 
 
+
 ###
 
 <br clear="both">
 
-<h1 align="left">💻 Coding with these languages</h1>
+<h2 align="center">💻 Skills </h1>
+
+###
+
+<br clear="both">
+
+<h3 align="left">⌨ Languages</h3>
 
 [![Java](https://img.shields.io/badge/Java-000000.svg?style=for-the-badge&logo=OpenJDK&logoColor=white)](https://www.java.com/)
 [![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white)](https://spring.io/projects/spring-boot)
@@ -30,16 +37,18 @@
 
 ###
 
-<h1 align="left">💡 Using these techs</h1>
+<h3 align="left">💡 Techs</h3>
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitLab](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Figma](https://img.shields.io/badge/figma-%23323330.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 [![Postman](https://img.shields.io/badge/Postman-E0531F?style=for-the-badge&logo=Postman&logoColor=white)](https://www.postman.com/)
+[![Docker](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
 ###
 
-<h1 align="left">📖 And learning these</h1>
+<h3 align="left">📖 Learning</h3>
 
 [![ReactNative](https://img.shields.io/badge/React_Native-10132A?style=for-the-badge&logo=react&logoColor=61DAFC)](https://reactnative.dev/)
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
@@ -49,7 +58,7 @@
 
 <br>
 
-<h1 align="center"> 🔥 Some infos of my github profile</h1>
+<h2 align="center"> 📄 Some infos of my github profile</h2>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats-sigma-ruby-74.vercel.app/api?username=andrezon04&show_icons=true&theme=nightowl&count_private=true&hide_border=true" alt="andrezon04 github stats"/> 
@@ -72,4 +81,4 @@
 
 ###
 
-<p align="center">(some codes that I dedicate more time ↷)</p>
+<p align="center">(some codes that I dedicated more time ↷)</p>
