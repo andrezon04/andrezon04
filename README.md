@@ -4,7 +4,8 @@
 
 ###
 
-<h1 align="left">Welcome to my profile 😉</h1>
+<h1 align="center">Welcome to my profile 😉</h1>
+
 
 ###
 
@@ -20,13 +21,11 @@
 
 <br clear="both">
 
-<h2 align="center">🧠 Skills & Tools </h1>
+<h2 align="center">⚙ Skills & Tools </h1>
 
 ###
 
-<br clear="both">
-
-<h3 align="left">💻 Coding languages</h3>
+<h3 align="left">💻 What I know</h3>
 
 [![Java](https://img.shields.io/badge/Java-000000.svg?style=for-the-badge&logo=OpenJDK&logoColor=white)](https://www.java.com/)
 [![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white)](https://spring.io/projects/spring-boot)
@@ -34,11 +33,7 @@
 [![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=CSS&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)](https://www.mysql.com/)
-
-###
-
-<h3 align="left">💡 Known tools</h3>
-
+<br>
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 [![GitLab](https://img.shields.io/badge/gitlab-%23E24329.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://git-scm.com/)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://about.gitlab.com/)
@@ -56,9 +51,13 @@
 
 ###
 
-<br>
+<h2 align="center"> 🐱 Some infos of my github profile</h2>
 
-<h2 align="center"> 📄 Some infos of my github profile</h2>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=andrezon04&locale=en&mode=daily&theme=nightowl&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
 
 <div align="center">  
   <img width="50%" height="195px" src="https://github-readme-stats-sigma-ruby-74.vercel.app/api?username=andrezon04&show_icons=true&theme=nightowl&count_private=true&hide_border=false" alt="andrezon04 github stats"/> 
@@ -67,11 +66,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=andrezon04&locale=en&mode=daily&theme=nightowl&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
 
 <br clear="both">
 
