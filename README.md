@@ -64,15 +64,16 @@
   <img width="45%" height="195px" src="https://github-readme-stats-sigma-ruby-74.vercel.app/api/top-langs/?username=andrezon04&layout=compact&hide_border=false&theme=nightowl" />
 </div>
 
+
 ###
+<img src="https://raw.githubusercontent.com/andrezon04/andrezon04/main/dist/github-contribution-grid-snake-dark.svg"/>
 
 
+###
 <br clear="both">
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=#236FF5"  />
 </div>
-
-###
 
 <p align="center">(some projects that I dedicated more time ⭐ ↷)</p>
