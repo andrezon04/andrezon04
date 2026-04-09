@@ -21,7 +21,7 @@
 
 <br clear="both">
 
-<h2 align="center">⚙ Skills & Tools </h1>
+<h2 align="center"> 🛠️ Skills & Tools </h1>
 
 ###
 
@@ -43,7 +43,7 @@
 
 ###
 
-<h3 align="left">📖 Trying learning </h3>
+<h3 align="left">📝 Currently learning </h3>
 
 [![ReactNative](https://img.shields.io/badge/React_Native-10132A?style=for-the-badge&logo=react&logoColor=61DAFC)](https://reactnative.dev/)
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
@@ -51,7 +51,7 @@
 
 ###
 
-<h2 align="center"> 🐱 Some infos of my github profile</h2>
+<h2 align="center"> 🐱 Stats of my Github profile</h2>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=andrezon04&locale=en&mode=daily&theme=nightowl&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
@@ -64,15 +64,16 @@
   <img width="45%" height="195px" src="https://github-readme-stats-sigma-ruby-74.vercel.app/api/top-langs/?username=andrezon04&layout=compact&hide_border=false&theme=nightowl" />
 </div>
 
+
 ###
+<img src="https://raw.githubusercontent.com/andrezon04/andrezon04/main/dist/github-contribution-grid-snake-dark.svg"/>
 
 
+###
 <br clear="both">
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=#236FF5"  />
 </div>
-
-###
 
 <p align="center">(some projects that I dedicated more time ⭐ ↷)</p>
