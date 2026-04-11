@@ -11,8 +11,7 @@
 
 ###
 
-<p align="left"> ↦ 𝗛𝗲𝗹𝗹𝗼, 𝗺𝘆 𝗻𝗮𝗺𝗲 𝗶𝘀 𝗔𝗻𝗱𝗿é 𝗗𝗶𝗮𝘀, 𝗜 𝗮𝗺 𝗮 <kbd>𝗕𝗮𝗰𝗸-𝗘𝗻𝗱</kbd> 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 𝘄𝗶𝘁𝗵 𝗳𝗼𝗰𝘂𝘀 𝗶𝗻 <kbd>𝗝𝗮𝘃𝗮</kbd>, <kbd>𝗦𝗽𝗿𝗶𝗻𝗴 𝗕𝗼𝗼𝘁</kbd> 𝗮𝗻𝗱 <kbd>𝗥𝗲𝗹𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀</kbd>. 𝗜 𝗮𝗹𝘀𝗼 𝗳𝗮𝗺𝗶𝗹𝗶𝗮𝗿𝗶𝘇𝗲𝗱 𝘄𝗶𝘁𝗵 𝘀𝗼𝗺𝗲 <kbd>𝗙𝗿𝗼𝗻𝘁-𝗘𝗻𝗱</kbd> 𝗹𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀: <kbd>𝗛𝗧𝗠𝗟</kbd>, <kbd>𝗖𝗦𝗦</kbd> 𝗮𝗻𝗱 <kbd>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</kbd>.
-𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘀𝘁𝘂𝗱𝘆𝗶𝗻𝗴 <a href="https://www.mackenzie.br/en/graduacao/ead/tecnologia-em-analise-e-desenvolvimento-de-sistemas">𝗦𝘆𝘀𝘁𝗲𝗺𝘀 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀 𝗮𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁</a> 𝗮𝘁 <a href="https://www.mackenzie.br/en/">𝗨𝗣𝗠</a> 𝗮𝗻𝗱 <a href="https://www.sp.senai.br/curso/tecnico-em-desenvolvimento-de-sistemas/102655"> 𝗦𝘆𝘀𝘁𝗲𝗺𝘀 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁</a> 𝗮𝘁 <a href="https://www.sp.senai.br/unidade/suicobrasileira/">𝗦𝗘𝗡𝗔𝗜</a>.
+<p align="left"> ↦ 𝗛𝗲𝗹𝗹𝗼, 𝗺𝘆 𝗻𝗮𝗺𝗲 𝗶𝘀 𝗔𝗻𝗱𝗿é 𝗗𝗶𝗮𝘀, 𝗜 𝗮𝗺 𝗮 <kbd>𝗕𝗮𝗰𝗸-𝗘𝗻𝗱 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲r</kbd>, 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘀𝘁𝘂𝗱𝘆𝗶𝗻𝗴 <a href="https://www.mackenzie.br/en/graduacao/ead/tecnologia-em-analise-e-desenvolvimento-de-sistemas">𝗦𝘆𝘀𝘁𝗲𝗺𝘀 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀 𝗮𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁</a> 𝗮𝘁 <a href="https://www.mackenzie.br/en/">𝗨𝗣𝗠</a> 𝗮𝗻𝗱 <a href="https://www.sp.senai.br/curso/tecnico-em-desenvolvimento-de-sistemas/102655"> 𝗦𝘆𝘀𝘁𝗲𝗺𝘀 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁</a> 𝗮𝘁 <a href="https://www.sp.senai.br/unidade/suicobrasileira/">𝗦𝗘𝗡𝗔𝗜</a>.
 </p>
 
 <br clear="both">
@@ -63,8 +62,7 @@
 
 
 ###
-<img src="https://raw.githubusercontent.com/andrezon04/andrezon04/main/dist/github-contribution-grid-snake-dark.svg"/>
-
+<img width="100%" src="https://raw.githubusercontent.com/andrezon04/andrezon04/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 
 ###
 <br clear="both">
