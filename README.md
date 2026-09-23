@@ -1,14 +1,15 @@
 <div data-importer="border" align="center">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&text=Andr%C3%A9%20Dias&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&stroke=-&strokeWidth=0&desc=Full-Stack%20Developer&descSize=20&descAlign=50&descAlignY=65&theme=tokyonight"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&text=Andr%C3%A9%20Dias&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&stroke=-&strokeWidth=0&desc=Desenvolvedor%20Full-Stack&descSize=20&descAlign=50&descAlignY=65&theme=tokyonight"  />
 </div>
 
 ###
 
-<samp> 
+<h2 align="center"> Sejam bem-vindos ao meu Github! 😉 </h2>
 
-Sou **André Dias** e sejam bem-vindos ao meu Github! 😉 
-- Técnico em Desenvolvimento de Sistemas no <a href="https://www.sp.senai.br/unidade/suicobrasileira" > SENAI </a> 
-- Tecnólogo em Análise e Desenvolvimento de Sistemas na <a href="https://www.mackenzie.br" > Mackenzie </a> 
+<samp align="center"> 
+
+↦ Técnico em Desenvolvimento de Sistemas no <a href="https://www.sp.senai.br/unidade/suicobrasileira" > SENAI </a> <br>
+↦ Tecnólogo em Análise e Desenvolvimento de Sistemas na <a href="https://www.mackenzie.br" > Mackenzie </a> 
 
 </samp>
 
@@ -55,8 +56,12 @@ Sou **André Dias** e sejam bem-vindos ao meu Github! 😉
 
 ###
 
+<br clear="both">
+
+###
+
 <div data-importer="border" align="center">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&stroke=-&strokeWidth=0&descSize=20&descAlign=50&descAlignY=65&theme=tokyonight"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100%&section=footer&reversal=true&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&stroke=-&strokeWidth=0&desc=A%20sorte%20favorece%20os%20corajosos.&descSize=20&descAlign=50&descAlignY=65&theme=tokyonight"  />
 </div>
 
 ###
