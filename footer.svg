@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 100" width="1200" height="100" role="img" aria-labelledby="title">
+  <title id="title">A sorte favorece os corajosos.</title>
+  <path d="M0 22 Q180 0 360 22 T720 22 T1080 22 T1440 22 V100 H0Z" fill="#292e52"/>
+  <path d="M0 31 Q180 9 360 31 T720 31 T1080 31 T1440 31 V100 H0Z" fill="#1a1b27"/>
+  <text x="600" y="72" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#a9b1d6">A sorte favorece os corajosos.</text>
+</svg>

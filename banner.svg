@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 190" width="1200" height="190" role="img" aria-labelledby="title desc">
+  <title id="title">André Dias</title>
+  <desc id="desc">Desenvolvimento de Sistemas. Java, Spring Boot e React.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="0.5"><stop stop-color="#1a1b27"/><stop offset="1" stop-color="#292e52"/></linearGradient>
+  </defs>
+  <rect width="1200" height="190" rx="16" fill="url(#bg)"/>
+  <text x="600" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="40" font-weight="700" fill="#ffffff">André Dias</text>
+  <text x="600" y="111" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#a9b1d6">Desenvolvimento de Sistemas · Java · Spring Boot · React</text>
+  <path d="M0 153 Q180 122 360 154 T720 154 T1080 154 T1440 154 V190 H0Z" fill="#7aa2f7" opacity="0.2"/>
+  <path d="M0 170 Q180 143 360 170 T720 170 T1080 170 T1440 170 V190 H0Z" fill="#bb9af7" opacity="0.32"/>
+</svg>
