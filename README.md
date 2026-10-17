@@ -1,29 +1,74 @@
-# Olá, eu sou o André Dias 👋
+<div data-importer="border" align="center">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&text=Andr%C3%A9%20Dias&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&stroke=-&strokeWidth=0&desc=Desenvolvedor%20Full-Stack&descSize=20&descAlign=50&descAlignY=65&theme=tokyonight"  />
+</div>
 
-Estudante de desenvolvimento de sistemas, com projetos de backend em **Java e Spring Boot** e interfaces web em **JavaScript e React**.
+###
 
-Neste perfil, compartilho aplicações e exercícios desenvolvidos durante meus estudos. Meu foco é evoluir na construção de APIs, integração entre sistemas, modelagem de dados e testes de software.
+<h2 align="center"> Sejam bem-vindos ao meu GitHub! 😉 </h2>
 
-[LinkedIn](https://www.linkedin.com/in/andrediass/) · [E-mail](mailto:andredias.jobs@gmail.com)
+<samp align="center"> 
 
-## Projetos para conhecer
+↦ Estudante de Desenvolvimento de Sistemas no <a href="https://www.sp.senai.br/unidade/suicobrasileira">SENAI</a> <br>
+↦ Projetos de backend com Java, Spring Boot e MySQL <br>
+↦ Interfaces web com JavaScript e React e estudos de testes com Cypress <br>
+↦ Praticando APIs REST, persistência de dados e integração com APIs públicas <br>
+↦ Conheça meus trabalhos nos repositórios fixados abaixo <br><br>
+<a href="https://www.linkedin.com/in/andrediass/">LinkedIn</a> · <a href="mailto:andredias.jobs@gmail.com">E-mail</a>
 
-| Projeto | O que você encontra | Tecnologias |
-| --- | --- | --- |
-| [API de biblioteca](https://github.com/andrezon04/library-springboot-relationship) | Estudo de relacionamentos entre usuários, carteirinhas e empréstimos, com persistência em banco de dados. | Java, Spring Boot, JPA, MySQL |
-| [Rick and Morty](https://github.com/andrezon04/react-rickmorty-api) | Interface que consulta uma API pública e apresenta informações dos personagens. | React, JavaScript, Axios, CSS |
-| [NASA APOD](https://github.com/andrezon04/nasa-data-fetcher) | Consulta à mídia astronômica do dia, com imagem ou vídeo, data e explicação. Projeto desenvolvido em colaboração. | JavaScript, HTML, CSS, Fetch API |
-| [Testes com Cypress](https://github.com/andrezon04/4dm-cypress-tests) | Cenários de teste de login e interação com formulários em uma aplicação web de estudo. | Cypress, JavaScript |
-| [Suporte de Domingo](https://github.com/andrezon04/rebranding-sdd) | Estudo de migração de uma página estática para componentes React. | React, Vite, CSS |
+</samp>
 
-## Tecnologias utilizadas nos estudos
+###
 
-- **Backend:** Java, Spring Boot, Spring Data JPA e MySQL.
-- **Frontend:** HTML, CSS, JavaScript e React.
-- **Testes e ferramentas:** Cypress, Git e Postman.
+<br clear="both">
 
-## Aprendizado em prática
+###
 
-Os repositórios incluem projetos em desenvolvimento e exercícios acadêmicos. Os READMEs descrevem o que já está implementado, como executar cada aplicação e quais melhorias ainda estão previstas.
+<h2 align="center"> Tecnologias e Ferramentas </h2>
 
-Para conhecer minha trajetória e conversar sobre oportunidades em desenvolvimento, acesse meu [LinkedIn](https://www.linkedin.com/in/andrediass/).
+
+<div align="center">
+
+[![Java](https://img.shields.io/badge/Java-000000.svg?style=for-the-badge&logo=OpenJDK&logoColor=white)](https://www.java.com/)
+[![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![JavaScript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-10132A?style=for-the-badge&logo=react&logoColor=61DAFC)](https://react.dev/)
+[![ReactNative](https://img.shields.io/badge/React_Native-10132A?style=for-the-badge&logo=react&logoColor=61DAFC)](https://reactnative.dev/)
+[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)<br>
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Figma](https://img.shields.io/badge/figma-%23323330.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
+[![Postman](https://img.shields.io/badge/Postman-E0531F?style=for-the-badge&logo=Postman&logoColor=white)](https://www.postman.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)](https://www.cypress.io/)
+[![Docker](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+
+</div>
+
+###
+
+<br clear="both">
+
+###
+
+<div align="center">  
+
+  <h2> Status </h2>
+
+  <img src="https://streak-stats.demolab.com?user=andrezon04&locale=en&mode=daily&theme=nightowl&hide_border=true&border_radius=20&order=3" height="200" alt="streak graph"  />
+
+  <img width="50%" height="195px" src="https://github-readme-stats-sigma-ruby-74.vercel.app/api?username=andrezon04&show_icons=true&theme=nightowl&count_private=true&hide_border=true&border_radius=20" alt="andrezon04 github stats"/> 
+  <img width="45%" height="195px" src="https://github-readme-stats-sigma-ruby-74.vercel.app/api/top-langs/?username=andrezon04&layout=compact&hide_border=true&border_radius=20&theme=nightowl" />
+
+</div>
+
+###
+
+<br clear="both">
+
+###
+
+<div data-importer="border" align="center">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100%&section=footer&reversal=true&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&stroke=-&strokeWidth=0&desc=A%20sorte%20favorece%20os%20corajosos.&descSize=20&descAlign=50&descAlignY=65&theme=tokyonight"  />
+</div>
+
+###
