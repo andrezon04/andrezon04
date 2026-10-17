@@ -55,12 +55,12 @@ Estudos de testes de interface com Cypress.
 <h2 align="center">Status</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=andrezon04&amp;theme=nightowl&amp;hide_border=true&amp;border_radius=20&amp;disable_animations=true" height="170" alt="Sequência de contribuições de André Dias no GitHub" />
+  <img src="https://streak-stats.demolab.com/?user=andrezon04&amp;theme=nightowl&amp;hide_border=true&amp;border_radius=20&amp;disable_animations=true" width="432" height="170" alt="Sequência de contribuições de André Dias no GitHub" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-ruby-74.vercel.app/api?username=andrezon04&amp;show_icons=true&amp;theme=nightowl&amp;hide_border=true&amp;border_radius=20&amp;disable_animations=true" height="170" alt="Estatísticas públicas do GitHub de André Dias" />
-  <img src="https://github-readme-stats-sigma-ruby-74.vercel.app/api/top-langs/?username=andrezon04&amp;layout=compact&amp;hide_border=true&amp;border_radius=20&amp;theme=nightowl&amp;disable_animations=true" height="170" alt="Linguagens dos repositórios públicos de André Dias" />
+  <img src="https://github-readme-stats-sigma-ruby-74.vercel.app/api?username=andrezon04&amp;show_icons=true&amp;theme=nightowl&amp;hide_border=true&amp;border_radius=20&amp;disable_animations=true" width="407" height="170" alt="Estatísticas públicas do GitHub de André Dias" />
+  <img src="https://github-readme-stats-sigma-ruby-74.vercel.app/api/top-langs/?username=andrezon04&amp;layout=compact&amp;hide_border=true&amp;border_radius=20&amp;theme=nightowl&amp;disable_animations=true" width="365" height="170" alt="Linguagens dos repositórios públicos de André Dias" />
 </p>
 
 <div align="center">
