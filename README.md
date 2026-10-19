@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.svg" width="100%" alt="André Dias — Desenvolvimento de Sistemas" />
+  <img src="./banner-animated.svg" width="100%" alt="André Dias — Desenvolvimento de Sistemas" />
 </div>
 
 <h2 align="center">Sejam bem-vindos ao meu GitHub! 😉</h2>
@@ -68,6 +68,6 @@ Estudos de testes de interface com Cypress.
 </p>
 
 <div align="center">
-  <img src="./footer.svg" width="100%" alt="A sorte favorece os corajosos." />
+  <img src="./footer-animated.svg" width="100%" alt="A sorte favorece os corajosos." />
 </div>
 
