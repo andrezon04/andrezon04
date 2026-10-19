@@ -1,6 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 100" width="1200" height="100" role="img" aria-labelledby="title">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 100" width="1200" height="100" role="img" aria-labelledby="title desc">
   <title id="title">A sorte favorece os corajosos.</title>
-  <path d="M0 22 Q180 0 360 22 T720 22 T1080 22 T1440 22 V100 H0Z" fill="#292e52"/>
-  <path d="M0 31 Q180 9 360 31 T720 31 T1080 31 T1440 31 V100 H0Z" fill="#1a1b27"/>
+  <desc id="desc">Ondas suaves em azul-escuro, com a frase centralizada.</desc>
+  <defs><clipPath id="frame"><rect width="1200" height="100"/></clipPath></defs>
+  <style>
+    .wave { animation: drift 28s linear infinite; }
+    .wave-front { animation-duration: 36s; animation-direction: reverse; }
+    @keyframes drift { from { transform: translateX(0); } to { transform: translateX(-600px); } }
+    @media (prefers-reduced-motion: reduce) { .wave { animation: none; } }
+  </style>
+  <g clip-path="url(#frame)">
+    <path class="wave" d="M-600 22 Q-450 0 -300 22 T0 22 T300 22 T600 22 T900 22 T1200 22 T1500 22 T1800 22 V100 H-600Z" fill="#292e52"/>
+    <path class="wave wave-front" d="M-600 31 Q-450 11 -300 31 T0 31 T300 31 T600 31 T900 31 T1200 31 T1500 31 T1800 31 V100 H-600Z" fill="#1a1b27"/>
+  </g>
   <text x="600" y="72" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#a9b1d6">A sorte favorece os corajosos.</text>
 </svg>
