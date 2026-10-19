@@ -18,12 +18,12 @@ Estudos de testes de interface com Cypress.
 
 <p align="center">
 <strong>Emprega.Co</strong> — TCC em equipe, com API em Java/Spring Boot e PostgreSQL e aplicativo em React Native/Expo. Contribuições em cadastro, recuperação de senha e contratos. Repositórios privados.<br>
-<a href="https://github.com/andrezon04/library-springboot-relationship"><strong>API de biblioteca</strong></a> — Projeto de estudo de API REST, relacionamentos com JPA/Hibernate e persistência em MySQL.<br>
-<a href="https://github.com/andrezon04/react-rickmorty-api"><strong>Rick and Morty</strong></a> — Projeto de estudo com React, JavaScript e Axios para consumir uma API pública.<br>
-<a href="https://github.com/andrezon04/nasa-data-fetcher"><strong>NASA APOD</strong></a> — Projeto colaborativo em JavaScript para consultar a mídia astronômica do dia.
+<a href="https://github.com/andrezon04/spring-boot-library-api"><strong>API de biblioteca</strong></a> — Projeto de estudo de API REST, relacionamentos com JPA/Hibernate e persistência em MySQL.<br>
+<a href="https://github.com/andrezon04/rick-and-morty-react"><strong>Rick and Morty</strong></a> — Projeto de estudo com React, JavaScript e Axios para consumir uma API pública.<br>
+<a href="https://github.com/andrezon04/nasa-apod-explorer"><strong>NASA APOD</strong></a> — Projeto colaborativo em JavaScript para consultar a mídia astronômica do dia.
 </p>
 
-<p align="center"><a href="https://github.com/andrezon04/4dm-cypress-tests">Testes de interface com Cypress</a> — Estudos de cenários de login e formulários.</p>
+<p align="center"><a href="https://github.com/andrezon04/4dm-cypress-e2e">Testes de interface com Cypress</a> — Estudos de cenários de login e formulários.</p>
 
 <h2 align="center">Tecnologias e ferramentas</h2>
 
@@ -70,4 +70,5 @@ Estudos de testes de interface com Cypress.
 <div align="center">
   <img src="./footer-animated.svg" width="100%" alt="A sorte favorece os corajosos." />
 </div>
+
 
