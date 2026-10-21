@@ -17,7 +17,7 @@ Estudos de testes de interface com Cypress.
 <h3 align="center">Projetos em destaque</h3>
 
 <p align="center">
-<strong>Emprega.Co</strong> — TCC em equipe, com API em Java/Spring Boot e PostgreSQL e aplicativo em React Native/Expo. Contribuições em cadastro, recuperação de senha e contratos. Repositórios privados.<br>
+<a href="https://empregaco.com.br/"/> <strong> Emprega.Co </strong> — TCC em equipe, com API em Java/Spring Boot e PostgreSQL e aplicativo em React Native/Expo. Contribuições em cadastro, recuperação de senha e contratos. Repositórios privados.<br>
 <a href="https://github.com/andrezon04/spring-boot-library-api"><strong>API de biblioteca</strong></a> — Projeto de estudo de API REST, relacionamentos com JPA/Hibernate e persistência em MySQL.<br>
 <a href="https://github.com/andrezon04/rick-and-morty-react"><strong>Rick and Morty</strong></a> — Projeto de estudo com React, JavaScript e Axios para consumir uma API pública.<br>
 <a href="https://github.com/andrezon04/nasa-apod-explorer"><strong>NASA APOD</strong></a> — Projeto colaborativo em JavaScript para consultar a mídia astronômica do dia.
